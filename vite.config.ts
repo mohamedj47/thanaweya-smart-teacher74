@@ -21,3 +21,8 @@ export default defineConfig(({ mode }) => {
       }
     };
 });
+import { defineConfig } from "vite";
+
+export default defineConfig({
+  base: "/thanaweya-smart-teacher74/",
+});
